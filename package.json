@@ -1,0 +1,17 @@
+{
+  "name": "reactga",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chart.js": "^4.2.0",
+    "chartjs-plugin-annotation": "^2.1.2",
+    "react-ga4": "^2.0.0"
+  }
+}
